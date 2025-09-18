@@ -1,4 +1,4 @@
-# FORTRAN IV INTERACTIVE INTERPRETER v2.1
+FORTRAN IV INTERACTIVE INTERPRETER v2.1
 ========================================
 Compatible with Microsoft FORTRAN Version 3.31  
 Optimized for DOS Memory Constraints (640KB)  
