@@ -1,0 +1,1 @@
+10    INTEGER A, B, C20    A = 1030    B = 2040    C = A + B50    PRINT A60    PRINT B  70    PRINT C80    PRINT A * B90    PRINT (A + B) * 2
